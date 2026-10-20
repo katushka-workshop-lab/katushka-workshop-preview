@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[2107,[],""]
+3:I[9655,[],""]
+4:"static/chunks/778-368e9bd221e37fb1.js"
+5:"static/chunks/143-c44e9d507bfb4737.js"
+6:"static/chunks/app/page-80631370cc7d1b59.js"
+7:I[7778,["778","$4","143","$5","974","$6"],""]
+b:"static/chunks/357-048aa6931f6e77a2.js"
+c:"static/chunks/app/search/page-4e5bcecc5ffecfef.js"
+d:"SearchExperience"
+e:I[6631,["778","$4","357","$b","959","$c"],"$d"]
+f:I[6482,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[6482,[],"$12"]
+15:"MetadataBoundary"
+16:I[6482,[],"$15"]
+18:I[4257,[],"default",1]
+:HL["/katushka-workshop-preview/_next/static/css/ac0cc57772be763d.css","style"]
+:HL["/katushka-workshop-preview/_next/static/css/560c324da44d7d04.css","style"]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/katushka-workshop-preview/_next/static/css/560c324da44d7d04.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"search","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","search",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/katushka-workshop-preview/_next/static/css/ac0cc57772be763d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","aside",null,{"role":"note","data-preview-base-path":"/katushka-workshop-preview","style":{"padding":"8px 16px","background":"#fff1d6","color":"#3d2515","fontSize":13,"lineHeight":1.5},"children":"Тестовая Demo 1.2 · Только вымышленные записи · Не импортируйте личные копии · QR-код и «Поделиться» ведут в основную KATUШКА"}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"brand-shell","children":["$","div",null,{"className":"brand-container","children":[["$","header",null,{"className":"brand-header","children":[["$","$L7",null,{"href":"/","className":"back-link","aria-label":"На главный экран","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":"20","height":"20","fill":"none","stroke":"currentColor","strokeWidth":"1.7","aria-hidden":"true","children":["$","path",null,{"d":"m14 5-7 7 7 7M7 12h14"}]}],["$","span",null,{"children":"На главную"}]]}],["$","span",null,{"className":"brand-wordmark","aria-label":"KATUШКА","children":["KATU",["$","span",null,{"children":"Ш"}],"КА"]}]]}],["$","main",null,{"id":"main-content","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"СТРАНИЦА НЕ НАЙДЕНА"}],["$","h1",null,{"children":"Нить потерялась"}],["$","p",null,{"className":"page-description","children":"Такой страницы пока нет. Вернитесь к началу знакомства."}],["$","div",null,{"className":"thread-rule","aria-hidden":"true"}]]}],["$","$L7",null,{"href":"/","className":"primary-button","children":"На главный экран"}]]}],["$","footer",null,{"className":"brand-footer","children":[["$","span",null,{"className":"thread-dot","aria-hidden":"true"}],["$","span",null,{"children":"Знакомься на всю катушку"}],["$","span",null,{"className":"demo-pill","children":"Демо"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WaE5Zn8fE2x9M9F8B0j-l"}
+9:C
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#24160f"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+19:I[2391,[],"IconMark"]
+11:null
+17:[["$","title","0",{"children":"Поиск — Личный Ковёр · KATUШКА"}],["$","meta","1",{"name":"description","content":"KATUШКА — демонстрационный прототип: сохраняйте знакомства, вспоминайте истории и делитесь визиткой."}],["$","meta","2",{"name":"application-name","content":"KATUШКА"}],["$","link","3",{"rel":"manifest","href":"/katushka-workshop-preview/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"KATUШКА"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","8",{"rel":"icon","href":"/katushka-workshop-preview/icons/favicon-v1-32.png","sizes":"32x32","type":"image/png"}],["$","link","9",{"rel":"icon","href":"/katushka-workshop-preview/icons/app-icon-v1-192.png","sizes":"192x192","type":"image/png"}],["$","link","10",{"rel":"apple-touch-icon","href":"/katushka-workshop-preview/icons/apple-touch-icon-v1.png","sizes":"180x180","type":"image/png"}],["$","$L19","11",{}]]
